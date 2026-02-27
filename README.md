@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zahid%20Rasheed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20Architect&descAlignY=55&descSize=16" width="100%"/>
+<!-- Animated Header — Gen Z gradient: hot pink → violet → electric blue -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:8338ec,100:3a86ff&height=200&section=header&text=Zahid%20Rasheed&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20Cloud%20Architect&descAlignY=57&descSize=17" width="100%"/>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+AI-Powered+Solutions+%F0%9F%A4%96;Full-Stack+%7C+ML+%7C+Cloud+Native+%E2%98%81%EF%B8%8F;Turning+Data+into+Intelligence+%F0%9F%94%AE;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
+<!-- Typing Animation — neon pink -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF006E&center=true&vCenter=true&random=false&width=650&lines=Building+AI-Powered+Solutions+%F0%9F%A4%96;Full-Stack+%7C+ML+%7C+Cloud+Native+%E2%98%81%EF%B8%8F;Turning+Data+into+Intelligence+%F0%9F%94%AE;Agentic+AI+%7C+LangChain+%7C+CrewAI+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 <br/>
 
@@ -136,7 +136,7 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zahid111777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=zahid111777&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -155,8 +155,8 @@ me.say_hi()
 <div align="center">
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a86ff,50:8338ec,100:ff006e&height=120&section=footer" width="100%"/>
 
-**✨ "Code is poetry written for machines, but read by humans." ✨**
+**💜 "Code is poetry written for machines, but read by humans." 🩷**
 
 </div>
