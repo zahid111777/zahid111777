@@ -29,7 +29,7 @@ class ZahidRasheed:
         self.role       = "AI Engineer & Full-Stack Developer"
         self.location   = "Rawalpindi, Pakistan 🇵🇰"
         self.languages  = ["Python", "JavaScript", "C", "HTML/CSS"]
-        self.interests  = ["Machine Learning", "Cloud Architecture",
+        self.interests  = ["Machine Learning","Deep learning","Artificial intelligence","GenAI","Agentic AI", "Cloud Architecture",
                            "Computer Vision", "DevOps", "UI/UX"]
         self.currently  = "Building intelligent, scalable systems"
         self.contact    = "zahidrasheed0123@gmail.com"
