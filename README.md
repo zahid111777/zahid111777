@@ -27,9 +27,9 @@ class ZahidRasheed:
     def __init__(self):
         self.name       = "Zahid Rasheed"
         self.role       = "AI Engineer & Full-Stack Developer"
-        self.location   = "Kashmir Neelum, Pakistan 🇵🇰"
+        self.location   = "Rawalpindi, Pakistan 🇵🇰"
         self.languages  = ["Python", "JavaScript", "C", "HTML/CSS"]
-        self.interests  = ["Machine Learning","Deep learning","Artificial intelligence","GenAI","Agentic AI", "Cloud Architecture",
+        self.interests  = ["Machine Learning", "Cloud Architecture",
                            "Computer Vision", "DevOps", "UI/UX"]
         self.currently  = "Building intelligent, scalable systems"
         self.contact    = "zahidrasheed0123@gmail.com"
@@ -67,6 +67,14 @@ me.say_hi()
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=robot&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge&logoColor=black)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 
 ### 🤖 AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
