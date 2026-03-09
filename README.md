@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- CINEMATIC HEADER — Deep space + neon grid -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,40:0a0a2e,70:0d1b4b,100:000000&height=280&section=header&text=ZAHID%20RASHEED&fontSize=62&fontColor=00f5ff&animation=blinking&fontAlignY=42&desc=▸%20AI%20Engineer%20%20▸%20Full-Stack%20Dev%20%20▸%20Cloud%20Architect&descAlignY=64&descSize=16&stroke=00f5ff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,40:0a0a2e,70:0d1b4b,100:000000&height=280&section=header&text=ZAHID%20RASHID&fontSize=62&fontColor=00f5ff&animation=blinking&fontAlignY=42&desc=▸%20AI%20Engineer%20%20▸%20Full-Stack%20Dev%20%20▸%20Cloud%20Architect&descAlignY=64&descSize=12&stroke=00f5ff&strokeWidth=2" width="100%"/>
 
 <br/>
 
