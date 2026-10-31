@@ -1,208 +1,210 @@
 <div align="center">
 
-<!-- CINEMATIC HEADER — Deep space + neon grid -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,40:0a0a2e,70:0d1b4b,100:000000&height=280&section=header&text=ZAHID%20RASHID&fontSize=62&fontColor=00f5ff&animation=blinking&fontAlignY=42&desc=▸%20AI%20Engineer%20%20▸%20Full-Stack%20Dev%20%20▸%20Cloud%20Architect&descAlignY=64&descSize=10&stroke=00f5ff&strokeWidth=2" width="100%"/>
+<!-- HEADER — Sleek gradient with sharp typography -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a192f,60:112240,100:0a192f&height=200&section=header&text=ZAHID%20RASHID&fontSize=60&fontColor=64ffda&animation=fadeIn&fontAlignY=45&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Cloud%20Architect&descAlignY=68&descSize=14&descColor=8892b0&stroke=64ffda&strokeWidth=1" width="100%"/>
 
 <br/>
 
-<!-- Typing — Electric cyan, sharp and punchy -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=900&color=00F5FF&center=true&vCenter=true&random=false&width=700&lines=%5B+INITIALIZING+AI+ENGINEER+%5D+...;Building+Agentic+Systems+that+Think+%F0%9F%A7%A0;LangChain+%E2%80%A2+CrewAI+%E2%80%A2+LangGraph+%E2%80%A2+OpenAI;Cloud-Native+%7C+Scalable+%7C+Production-Ready+%E2%9A%A1;From+Kashmir+to+the+Cloud+%F0%9F%8C%8D)](https://git.io/typing-svg)
+<!-- Typing animation — Mint/cyan accent -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=650&lines=Architecting+Agentic+AI+Systems+%F0%9F%A7%A0;LangChain+%E2%80%A2+CrewAI+%E2%80%A2+LangGraph+%E2%80%A2+OpenAI;From+Kashmir+to+the+Cloud+%E2%98%81%EF%B8%8F;Production-Grade+ML+Pipelines+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- SOCIAL LINKS with neon glow style -->
-[![Instagram](https://img.shields.io/badge/-%40mirzahidrasheed-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=0d0d0d)](https://instagram.com/mirzahidrasheed)
-[![LinkedIn](https://img.shields.io/badge/-Zahid%20Rashid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/zahid-rashid-3464b5260)
-[![TikTok](https://img.shields.io/badge/-%40zahid0611-010101?style=for-the-badge&logo=TikTok&logoColor=white&labelColor=0d0d0d)](https://tiktok.com/@zahid0611)
-[![Email](https://img.shields.io/badge/-zahidrasheed0123-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:zahidrasheed0123@gmail.com)
+<!-- Social badges — Clean dark style with accent borders -->
+<a href="https://www.linkedin.com/in/zahid-rashid-3464b5260"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:zahidrasheed0123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://instagram.com/mirzahidrasheed"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
+<a href="https://tiktok.com/@zahid0611"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=zahid111777&label=PROFILE+VIEWS&color=00f5ff&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/zahid111777?label=FOLLOWERS&style=flat-square&color=00f5ff&labelColor=0d0d0d)
+<img src="https://komarev.com/ghpvc/?username=zahid111777&label=Profile+Views&color=64ffda&style=flat-square&labelColor=0a192f"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/zahid111777?label=Followers&style=flat-square&color=64ffda&labelColor=0a192f"/>
 
 </div>
 
----
+<br/>
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                   SYSTEM PROFILE — ACTIVE                        ║
-╠══════════════════════════════════════════════════════════════════╣
-║  ENTITY   :  Zahid Rasheed                                       ║
-║  ROLE     :  AI Engineer & Full-Stack Developer                  ║
-║  ORIGIN   :  Kashmir Neelum Valley, Pakistan 🇵🇰                 ║
-║  MISSION  :  Building intelligent, scalable systems              ║
-║  STATUS   :  [ ████████████████████ ] ONLINE                     ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-## ◈ `whoami`
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;About Me
 
 ```python
-class ZahidRasheed:
-    """
-    ┌─────────────────────────────────────────────────────┐
-    │  AI Engineer crafting systems that think, learn,    │
-    │  and scale — from model to production.              │
-    └─────────────────────────────────────────────────────┘
-    """
+class ZahidRashid:
     def __init__(self):
-        self.name       = "Zahid Rasheed"
-        self.role       = ["AI Engineer", "Full-Stack Developer", "Cloud Architect"]
-        self.location   = "Kashmir Neelum Valley, Pakistan 🏔️"
-        self.stack      = {
-            "AI/ML"    : ["LangChain", "CrewAI", "LangGraph", "OpenAI SDK", "HuggingFace"],
-            "Backend"  : ["FastAPI", "Django", "Flask", "Node.js"],
-            "Frontend" : ["React", "Next.js", "TailwindCSS"],
-            "Cloud"    : ["AWS", "GCP", "Azure", "Docker"],
-            "Databases": ["MongoDB", "PostgreSQL", "Snowflake", "Firebase"],
-        }
-        self.obsessions = ["Agentic AI 🤖", "Computer Vision 👁️", "DevOps ⚙️", "UI/UX ✦"]
-        self.currently  = "Engineering autonomous AI agents at scale"
+        self.role       = "AI/ML Engineer @ CareCloud"
+        self.location   = "Kashmir, Pakistan 🏔️"
+        self.education  = "BS(CS) — University of AJ&K"
+        self.focus      = ["Agentic AI", "Computer Vision", "Healthcare AI", "Cloud Architecture"]
+        self.building   = "Autonomous AI agents & production ML pipelines"
 
-    def philosophy(self) -> str:
-        return "Code is the closest thing to magic we've got. Use it wisely. 🔮"
+    def daily_stack(self):
+        return ["Python", "LangChain", "FastAPI", "React", "AWS", "Docker"]
 
-me = ZahidRasheed()
-print(me.philosophy())
-# >> Code is the closest thing to magic we've got. Use it wisely. 🔮
+    def philosophy(self):
+        return "Engineer systems that think. Ship things that matter."
 ```
 
----
+<br/>
 
-## ◈ Tech Arsenal
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
-### ◦ Languages
+<table>
+<tr>
+<td align="center" width="50%">
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+**AI / ML / GenAI**
 
-### ◦ AI / ML / GenAI
+<br/>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_SDK-412991?style=flat-square&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
-### ◦ Automation & Agents
+</td>
+<td align="center" width="50%">
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+**Backend & Frontend**
 
-### ◦ Frameworks & Backend
+<br/>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
 
-### ◦ Cloud & DevOps
+</td>
+</tr>
+<tr>
+<td align="center">
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+**Cloud & DevOps**
+
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
-### ◦ Databases
+</td>
+<td align="center">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+**Databases & Tools**
+
+<br/>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white)
-
-### ◦ Design & Tools
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+**Automation & Agents**
+
+<br/>
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Make.com](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
+
+<br/>
+
+## 📊 &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zahid111777&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0&ring_color=64ffda"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahid111777&layout=compact&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=8892b0"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=zahid111777&hide_border=true&background=0a192f&ring=64ffda&fire=ff6e96&currStreakLabel=64ffda&sideLabels=64ffda&currStreakNum=ccd6f6&sideNums=ccd6f6&dates=8892b0)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+## 🏆 &nbsp;Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=zahid111777&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+
+</div>
+
+<br/>
+
+## 📈 &nbsp;Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zahid111777&bg_color=0a192f&color=64ffda&line=64ffda&point=ff6e96&area=true&area_color=64ffda&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
 
 ---
 
-## ◈ GitHub Intelligence
-
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=zahid111777&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d0d0d&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9&border_radius=8"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahid111777&theme=chartreuse-dark&hide_border=true&layout=compact&bg_color=0d0d0d&title_color=00f5ff&text_color=c9d1d9&border_radius=8"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zahid111777/zahid111777/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zahid111777/zahid111777/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/zahid111777/zahid111777/output/github-snake-dark.svg" width="100%" />
+</picture>
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=zahid111777&theme=dark&hide_border=true&background=0d0d0d&ring=00f5ff&fire=ff006e&currStreakLabel=00f5ff&sideLabels=00f5ff&dates=888888)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## ◈ Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=zahid111777&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
-</div>
-
----
-
-## ◈ Contribution Map
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zahid111777&theme=react-dark&hide_border=true&bg_color=0d0d0d&color=00f5ff&line=00f5ff&point=ff006e&area=true&area_color=00f5ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   "The best engineers don't just write code —                   │
-│    they architect futures."                                     │
-│                                                     — Z.R       │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+<br/><br/>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0a2e,70:0d1b4b,100:000000&height=140&section=footer&text=LET'S%20BUILD%20SOMETHING%20GREAT&fontSize=22&fontColor=00f5ff&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:0a192f&height=120&section=footer&text=Let's%20Build%20Something%20Great&fontSize=20&fontColor=64ffda&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
