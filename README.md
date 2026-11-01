@@ -220,15 +220,13 @@ print(me.philosophy())
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   "The best engineers don't just write code —                   │
-│    they architect futures."                                     │
-│                                                     — Z.R       │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=22&duration=4000&pause=2000&color=00F5FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%E2%9C%A6+%22The+best+engineers+don't+just+write+code+%E2%80%94%22;%22they+architect+futures.%22+%E2%80%94+Z.R+%E2%9C%A6"/>
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="70%"/>
+
+<br/><br/>
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0a2e,70:0d1b4b,100:000000&height=140&section=footer&text=LET'S%20BUILD%20SOMETHING%20GREAT&fontSize=22&fontColor=00f5ff&animation=twinkling&fontAlignY=65" width="100%"/>
