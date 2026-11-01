@@ -75,12 +75,19 @@ print(me.philosophy())
 
 ---
 
+<!-- ═══════════════════ NEW TECH SECTION ═══════════════════ -->
+
 ## ◈ Tech Arsenal
 
 <div align="center">
 
-<!-- AI/ML -->
-<h3>🧠 AI / ML / GenAI</h3>
+<table border="0">
+<tr>
+<td align="center" width="50%">
+
+<h3>🧠 &nbsp;AI / ML / GenAI</h3>
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" height="48"/>
 
@@ -97,58 +104,80 @@ print(me.philosophy())
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
+</td>
+<td align="center" width="50%">
+
+<h3>⚙️ &nbsp;Frameworks & Backend</h3>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,react,nextjs&theme=dark" height="48"/>
+
 <br/><br/>
 
-<!-- Automation & Agents -->
-<h3>🤖 Automation & Agents</h3>
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-
-<br/><br/>
-
-<!-- Backend & Frontend -->
-<h3>⚙️ Backend & Frontend</h3>
-
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,react,nextjs,tailwind,js,html,css&theme=dark" height="48"/>
+<img src="https://skillicons.dev/icons?i=tailwind,js,html,css&theme=dark" height="48"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
 
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<h3>☁️ &nbsp;Cloud & DevOps</h3>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker&theme=dark" height="48"/>
+
 <br/><br/>
 
-<!-- Cloud & DevOps -->
-<h3>☁️ Cloud & DevOps</h3>
+<img src="https://skillicons.dev/icons?i=vercel,heroku,githubactions&theme=dark" height="48"/>
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,vercel,heroku,githubactions&theme=dark" height="48"/>
+</td>
+<td align="center">
 
-<br/><br/>
+<h3>🗄️ &nbsp;Databases</h3>
 
-<!-- Databases -->
-<h3>🗄️ Databases</h3>
+<br/>
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,sqlite&theme=dark" height="48"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
 
 <br/><br/>
 
-<!-- Design & Tools -->
-<h3>🎨 Design & Tools</h3>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+<h3>🤖 &nbsp;Automation & Design Tools</h3>
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=figma,blender,git,postman&theme=dark" height="48"/>
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
+</td>
+</tr>
+</table>
+
 </div>
+
+<!-- ═══════════════════ END NEW TECH SECTION ═══════════════════ -->
 
 ---
 
